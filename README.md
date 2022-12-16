@@ -1,1 +1,1 @@
-# Fake_News_Prediction_ML
+# Project 4. Fake News Prediction using Machine Learning and NLP with Python
